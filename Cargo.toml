@@ -41,4 +41,3 @@ winres = "0.1"
 [profile.release]
 opt-level = 3
 lto = true
-strip = true
